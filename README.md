@@ -1,1 +1,5 @@
-# pygame_ShootingGame
+# 참고
+
+notion을 참고하세요
+
+BMJUA.ttf 관련 오류 발생시 해당 ttf 파일을 더블클릭해서 자기 시스템에 설치하면 됩니다.
