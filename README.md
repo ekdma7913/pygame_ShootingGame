@@ -2,6 +2,8 @@
 
 notion을 참고하세요
 
+https://ekdma7913.notion.site/ab62583ba3cd49a58a0eb262d35d8329
+
 BMJUA.ttf 관련 오류는 수정 예정, 플레이하는데에 문제 없음
 
 발표한 ppt는 링크 올려놓음.
